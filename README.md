@@ -1,4 +1,4 @@
-# upstage-basic-deeplearning
+# Naver Boostcamp
 PyTorch Tutorial for Boostcamp AI Tech.
 This repo contains five tutorials with blanks to fill marked with `# FILL IN HERE`.
 1. Multi-layer Perceptron ([mlp](https://github.com/sjchoi86/upstage-basic-deeplearning/blob/main/notebook/mlp.ipynb))
